@@ -63,3 +63,11 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+*.p
+.idea/
+checkpoint
+*.data-00000-of-00001
+*.index
+*.meta
